@@ -1,0 +1,25 @@
+#just-line-break {
+  white-space: pre-line;
+  font-family: 'Bree Serif', serif;
+  color:purple;
+  font-size: 14px;
+}
+
+#line-break-and-tab {
+  white-space: pre-wrap;
+  font-family: 'Bree Serif', serif;
+  color: orange;
+  font-size: 14px;
+}
+
+h1{
+  background:#ccccff;
+  text-align: center;
+  color: gray;
+  border: 5px double red;
+  border-radius: 10px;
+  text-shadow: 3px 3px black;
+  font-size; 60px;
+  padding: 10px;
+  font-family: 'Shadows Into Light', cursive;
+}
